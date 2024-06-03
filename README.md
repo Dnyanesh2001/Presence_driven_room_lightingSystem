@@ -3,8 +3,6 @@
 ## Description
 This project automates room lighting using ultrasonic sensors and an Arduino Nano. The system detects room occupancy to control the lights, turning them on when someone enters and off when the room is empty, thereby saving energy.
 
-(https://github.com/Dnyanesh2001/Presence_driven_room_lightingSystem/assets/118671547/72d90db3-ae6a-4064-b735-85d806a2a0a7)
-
 
 ## Features
 - Automatic detection of room occupancy
