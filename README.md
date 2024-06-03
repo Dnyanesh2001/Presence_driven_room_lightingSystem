@@ -26,5 +26,4 @@ This project automates room lighting using ultrasonic sensors and an Arduino Nan
 ## Usage
 This system can be used in various settings such as homes, offices, and cabins to automate lighting and reduce energy consumption.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
